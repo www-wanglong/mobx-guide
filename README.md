@@ -6,6 +6,7 @@ mobx-react-lite只支持函数组件
 2. action：允许修改状态的方法
 3. computed：根据应用程序状态派生的新值，计算值
 ## 4. 数据检测
+
 ### 4.1 autorun方法
 1. 初始化也会执行
 ```JavaScript
